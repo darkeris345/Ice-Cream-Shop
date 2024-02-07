@@ -8,3 +8,6 @@
 - JSON Server
 - Axios
 - React Hook Form
+
+
+Feel free to use it [HERE](https://ice-cream-shop-tau.vercel.app/)
