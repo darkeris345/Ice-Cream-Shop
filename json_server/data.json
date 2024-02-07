@@ -1,0 +1,85 @@
+{
+  "iceCreams": [
+    {
+      "flavor": "Chocolate",
+      "key": "chocolate",
+      "price": 5,
+      "color": "#9e6f68",
+      "fontColor": "white",
+      "count": 2,
+      "id": "0a7c"
+    },
+    {
+      "flavor": "Vanilla",
+      "key": "vanilla",
+      "price": 4,
+      "color": "#f0f0f0",
+      "fontColor": "black",
+      "count": 2,
+      "id": "c31b"
+    },
+    {
+      "flavor": "Strawberry",
+      "key": "strawberry",
+      "price": 2,
+      "color": "#ed7496",
+      "fontColor": "white",
+      "count": 2,
+      "id": "a508"
+    },
+    {
+      "flavor": "Mint",
+      "key": "mint",
+      "price": 4,
+      "color": "#68cc9d",
+      "fontColor": "white",
+      "count": 2,
+      "id": "a503"
+    },
+    {
+      "flavor": "Cotton Candy",
+      "key": "cottonCandy",
+      "price": 6,
+      "color": "#ce33cb",
+      "fontColor": "white",
+      "count": 0,
+      "id": "2b2d"
+    },
+    {
+      "flavor": "Cherry",
+      "key": "cherry",
+      "price": 5,
+      "color": "#b1160a",
+      "fontColor": "white",
+      "count": 8,
+      "id": "e253"
+    },
+    {
+      "id": "065b",
+      "flavor": "Test Test",
+      "price": "6",
+      "color": "#ec7979",
+      "fontColor": "black",
+      "key": "testTest",
+      "count": 0
+    },
+    {
+      "id": "7233",
+      "flavor": "Test Test",
+      "price": 1,
+      "color": "#ffffff",
+      "fontColor": "black",
+      "key": "testTest",
+      "count": 2
+    },
+    {
+      "id": "d165",
+      "flavor": "Test Test",
+      "price": 1,
+      "color": "#d7d123",
+      "fontColor": "white",
+      "key": "testTest",
+      "count": 0
+    }
+  ]
+}
