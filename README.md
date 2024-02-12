@@ -13,10 +13,10 @@ Technologies used for this project:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/dimux/Ice-Cream-Shop.git
+git clone https://github.com/[Your Username]/Ice-Cream-Shop.git
 ```
 
-### Install dependencies in project folder
+### Install dependencies in the project folder
 ```bash
 npm install
 ```
